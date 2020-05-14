@@ -2,7 +2,8 @@
 This original jugaad was made possible when the late Prime Minister Indira Gandhi distributed 
 cheap pumps to poor farmers to boost food production. But on holidays 
 they were used as engines to power a new kind of vehicle to ferry worshippers to temples and families to weddings.
-
+2)
+Instead of creating a purpose-built rocket powerful enough to reach the red planet, they dusted down their own Polar Satellite Launch Vehicle (PSLV), designed more than twenty years earlier to put small satellites in orbit above the Earth. To keep costs low, they ditched NASA’s iterative model where each component and stage is tested before the next begins, and built a rocket using cobbled together parts from earlier models, all in one go. What they could not do, for all their ingenuity, was supercharge a rocket made to launch Earth satellites into one that could carry its payload all the way to Mars. Conventional thinking was a black hole.
 
 Citation:
 https://www.dailyo.in/arts/jugaad-mars-orbiter-mission-mahabharata-ganeshas-elephant-head-isro-nasa-dean-nelson/story/1/24936.html
